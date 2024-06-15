@@ -1,4 +1,4 @@
-# first-project-tailwind
+# first-project-flex
 
 **You can see information about my project**
 
